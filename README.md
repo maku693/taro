@@ -30,3 +30,8 @@ $ npm run tslint
 ```
 $ npm run prettier
 ```
+
+## Watch
+```
+$ npm run watch
+```
