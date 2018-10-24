@@ -18,3 +18,15 @@ $ npm install
 ```
 $ npm run build
 ```
+
+## Lint
+
+```
+$ npm run tslint
+```
+
+## Prettier
+
+```
+$ npm run prettier
+```
