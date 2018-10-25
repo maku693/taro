@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "npm run build:web && npm run build:node",
+    "build": "npm-run-all build:*",
     "build:web": "webpack --mode production --target web",
     "build:node": "webpack --mode production --target node",
     "prettier": "prettier --list-different ./src/**/*",
