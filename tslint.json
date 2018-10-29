@@ -1,4 +1,4 @@
 {
-  "extends": ["tslint:recommended", "tslint-plugin-prettier"],
-  "rulesDirectory": ["tslint-config-prettier"]
+  "extends": ["tslint:recommended", "tslint-config-prettier"],
+  "rulesDirectory": ["tslint-plugin-prettier"]
 }
