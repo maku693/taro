@@ -36,7 +36,7 @@ module.exports = (_, { mode, target }) => {
       ]
     },
     resolve: {
-      extensions: [".js", ".ts", "tsx"]
+      extensions: [".js", ".ts", ".tsx"],
     },
     devtool: devtool[target][mode],
     context: resolve(__dirname, "src")
